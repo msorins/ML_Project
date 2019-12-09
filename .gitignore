@@ -3,3 +3,17 @@
 read-data/raw/
 
 .DS_Store
+
+read-data/processed/a/
+
+read-data/processed/b/
+
+read-data/.idea/misc.xml
+
+read-data/.idea/modules.xml
+
+read-data/.idea/read-data.iml
+
+read-data/.idea/vcs.xml
+
+read-data/.idea/workspace.xml
